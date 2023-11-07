@@ -5,6 +5,8 @@ First, clone the repo at: https://github.com/Cryptolyfe/Language-Detection.git
 <br>
 <br> 
 Before you run the below command make sure you have Streamlit installed.
+<br>
+<br> 
 To install Streamlit from your terminal
 Run 'pip install streamlit' 
 <br>
