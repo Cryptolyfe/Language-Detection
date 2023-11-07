@@ -19,7 +19,7 @@ After you confirm the installation completed without error you can run the follo
 
 <br> 
 
-This will launch a local deloyment of the lamguage detetction app...
+This will launch a local deloyment of the language detetction app...
 
 <br>
 <br>
