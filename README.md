@@ -35,3 +35,16 @@ And the UI will launch in your browser!
 <br> 
 
 Insert preffered language text into the user input window and click "Get Language Name"
+
+![krbylogo](media/photo4.png)
+
+<br>
+Repeat this with as many languages as you wish!
+<br>
+
+![krbylogo](media/photo5.png)
+
+<br>
+
+![krbylogo](media/photo6.png)
+
