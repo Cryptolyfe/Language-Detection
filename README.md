@@ -24,7 +24,6 @@ This will launch a local deloyment of the lamguage detetction app!
 ![krbylogo](media/photo2.png)
 
 <br>
-<br> 
 
 The UI will launch in your browser.
 
