@@ -11,4 +11,5 @@ To install Streamlit from your terminal Run 'pip install streamlit'
 After you confirm the installation completed without error you can run the following command:
 <br>
 <br> 
+
 ![krbylogo](media/photo1.png)
