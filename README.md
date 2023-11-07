@@ -18,9 +18,7 @@ After you confirm the installation completed without error you can run the follo
 ![krbylogo](media/photo1.png)
 
 <br> 
-
 This will launch a local deloyment of the lamguage detetction app!
-
 <br>
 
 ![krbylogo](media/photo2.png)
