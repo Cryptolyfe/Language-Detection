@@ -16,3 +16,19 @@ After you confirm the installation completed without error you can run the follo
 <br> 
 
 ![krbylogo](media/photo1.png)
+
+<br>
+<br> 
+This will launch a local deloyment of the lamguage detetction app!
+
+![krbylogo](media/photo2.png)
+
+<br>
+<br> 
+
+![krbylogo](media/photo3.png)
+
+<br>
+<br> 
+
+Insert preffered language text into the user input window and click "Get Language Name"
