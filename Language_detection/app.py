@@ -5,9 +5,10 @@ import webbrowser
 
 global Lrdetect_Model
 
+LrdetectFile = open('/absolute/path/to/your/model.pckl', 'rb')
 
 
-LrdetectFile = open('model.pckl','rb')
+#LrdetectFile = open('model.pckl','rb')
 Lrdetect_Model = pickle.load(LrdetectFile)
 LrdetectFile.close()
 st.title("Language Detection Tool")
