@@ -5,6 +5,12 @@ import webbrowser
 
 global Lrdetect_Model
 
+import os
+
+print("Current working directory:", os.getcwd())
+
+
+
 LrdetectFile = open('model.pckl','rb')
 Lrdetect_Model = pickle.load(LrdetectFile)
 LrdetectFile.close()
