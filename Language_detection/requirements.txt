@@ -51,7 +51,6 @@ cymem==2.0.5
 cython==0.29.21
 cytoolz==0.10.1
 dask==2.20.0
-dataclasses==0.8
 dateparser==1.0.0
 de-core-news-sm==3.0.0
 decorator==4.4.2
