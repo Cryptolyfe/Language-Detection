@@ -162,7 +162,7 @@ mccabe==0.6.1==py36_1
 menuinst==1.4.16==py36he774522_1
 mistune==0.8.4==py36he774522_0
 mkl==2019.4==245
-mkl-service=2.3.0==py36hb782905_0
+mkl-service==2.3.0==py36hb782905_0
 mkl_fft==1.0.14==py36h6288b17_0
 mkl_random==1.0.4==py36h343c172_0
 mock==4.0.2==py_0
