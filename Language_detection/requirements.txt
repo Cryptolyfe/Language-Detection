@@ -46,7 +46,7 @@ contextlib2==0.6.0.post1
 contextvars==2.4
 cryptography==2.9.2
 cssselect==1.1.0
-curl==7.71.1
+curl
 cycler==0.10.0
 cymem==2.0.5
 cython==0.29.21
