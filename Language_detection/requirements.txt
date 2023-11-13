@@ -3,10 +3,10 @@
 # platform: win-64
 alabaster==0.7.12==py36_0
 
-altair=4.1.0=pypi_0
-anaconda=2020.07=py36_0
-anaconda-client=1.7.2=py36_0
-anaconda-project=0.8.4=py_0
+altair==4.1.0==pypi_0
+anaconda==2020.07==py36_0
+anaconda-client=1.7.2==py36_0
+anaconda-project==0.8.4==py_0
 argh=0.26.2=py36_0
 asn1crypto=1.3.0=py36_0
 astor=0.8.1=pypi_0
