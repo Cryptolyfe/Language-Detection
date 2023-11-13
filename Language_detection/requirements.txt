@@ -28,7 +28,7 @@ blas==1.0==mkl
 bleach==3.1.5==py_0
 blinker==1.4==pypi_0
 blis==0.7.4==pypi_0
-blosc=1.19.0=h7bd577a_0
+blosc==1.19.0==h7bd577a_0
 bokeh==2.1.1==py36_0
 boto==2.49.0==py36_0
 boto3==1.17.27==pypi_0
