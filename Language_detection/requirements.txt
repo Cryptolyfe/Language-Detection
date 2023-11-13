@@ -81,7 +81,6 @@ googlenews==1.5.5
 greenlet==0.4.16
 grpcio==1.32.0
 h5py==2.10.0
-hdf5==1.10.4
 heapdict==1.0.1
 html5lib==1.1
 icc_rt==2019.0.0
