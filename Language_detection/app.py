@@ -5,7 +5,7 @@ import webbrowser
 
 global Lrdetect_Model
 
-LrdetectFile = open('/absolute/path/to/your/model.pckl', 'rb')
+LrdetectFile = open('/Users/katie.kirby/projects/language_detection/Language_detection/model.pckl', 'rb')
 
 
 #LrdetectFile = open('model.pckl','rb')
