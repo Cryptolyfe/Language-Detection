@@ -7,9 +7,12 @@ global Lrdetect_Model
 
 
 
-
 # Get the full path to 'model.pckl'
 model_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'model.pckl')
+
+# Print debug information
+print("Current working directory:", os.getcwd())
+print(f"Does '{model_path}' exist? {os.path.exists(model_path)}")
 
 # Open the 'model.pckl' file using the full path
 try:
@@ -26,4 +29,5 @@ input_test = st.text_input("Provide your text input here", 'Hello my name is Kat
 button_clicked = st.button("Get Language Name")
 if button_clicked:
     st.text(Lrdetect_Model.predict([input_test]))
+
 
