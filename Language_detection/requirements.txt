@@ -42,7 +42,7 @@ click==7.1.2
 cloudpickle==1.5.0
 colorama==0.4.3
 comtypes==1.1.7
-console_shortcut==0.1.1
+console_shortcut
 contextlib2==0.6.0.post1
 contextvars==2.4
 cryptography==2.9.2
