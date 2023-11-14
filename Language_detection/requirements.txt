@@ -115,7 +115,6 @@ keyring==21.2.1
 kiwisolver==1.2.0
 lazy-object-proxy==1.4.3
 libcst==0.3.17
-libcurl==7.71.1
 libiconv==1.15
 liblief==0.10.1
 libllvm9==9.0.1
