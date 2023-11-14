@@ -118,7 +118,6 @@ libcst==0.3.17
 llvmlite==0.33.0
 locket==0.2.0
 lxml==4.5.2
-lzo==2.10
 m2w64-gcc-libgfortran==5.3.0
 m2w64-gcc-libs==5.3.0
 m2w64-gcc-libs-core==5.3.0
