@@ -120,7 +120,6 @@ locket==0.2.0
 lxml==4.5.2
 markupsafe==1.1.1
 matplotlib==3.2.2
-matplotlib-base
 mccabe==0.6.1
 menuinst==1.4.16
 mistune==0.8.4
