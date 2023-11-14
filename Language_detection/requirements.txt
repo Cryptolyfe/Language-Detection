@@ -103,7 +103,6 @@ jieba3k==0.35.1
 jinja2==2.11.2
 jmespath==0.10.0
 joblib==0.16.0
-jpeg==9b
 json5==0.9.5
 jsonschema==3.2.0
 jupyter==1.0.0
