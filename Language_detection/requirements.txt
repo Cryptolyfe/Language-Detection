@@ -114,7 +114,6 @@ jupyterlab_server==1.2.0
 keyring==21.2.1
 kiwisolver==1.2.0
 lazy-object-proxy==1.4.3
-libarchive==3.4.2
 libcst==0.3.17
 libcurl==7.71.1
 libiconv==1.15
