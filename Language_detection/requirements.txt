@@ -142,7 +142,6 @@ numpy==1.19.5
 numpydoc==1.1.0
 olefile==0.46
 openpyxl==3.0.4
-openssl==1.1.1g
 packaging==20.4
 pandas==1.0.5
 pandoc==2.10
