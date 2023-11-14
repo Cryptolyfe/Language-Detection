@@ -115,7 +115,6 @@ keyring==21.2.1
 kiwisolver==1.2.0
 lazy-object-proxy==1.4.3
 libcst==0.3.17
-liblief==0.10.1
 libllvm9==9.0.1
 libpng==1.6.37
 libsodium==1.0.18
