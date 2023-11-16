@@ -290,7 +290,7 @@ ujson==1.35
 unicodecsv==0.14.1
 urllib3==1.25.9
 validators==0.18.2
-vc=14.1
+vc==14.1
 vs2015_runtime==14.16.27012=hf0eaf9b_3
 wasabi==0.8.2
 watchdog==0.10.3
