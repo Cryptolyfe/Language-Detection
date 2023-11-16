@@ -188,7 +188,6 @@ pynacl==1.4.0
 pyodbc==4.0.30
 pyopenssl==19.1.0
 pyparsing==2.4.7
-pyqt==5.15
 pyreadline==2.1
 pyrsistent==0.16.0
 pysocks==1.7.1
