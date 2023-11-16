@@ -198,7 +198,7 @@ python-language-server==0.34.1
 pytorch-pretrained-bert==0.6.2
 pytz==2020.1
 pywavelets==1.1.1
-pywin32==227
+pywin32==306
 pywin32-ctypes==0.2.0
 pywinpty==0.5.7
 pyyaml==5.3.1
