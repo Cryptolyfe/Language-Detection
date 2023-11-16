@@ -199,7 +199,7 @@ python==3.6.10
 python-dateutil==2.8.1
 python-jsonrpc-server==0.3.4
 python-language-server==0.34.1
-python-libarchive-c=2.9==py_0
+python-libarchive-c==2.9
 pytorch-pretrained-bert==0.6.2
 pytz==2020.1
 pywavelets==1.1.1
