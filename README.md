@@ -11,6 +11,8 @@ To install Streamlit from your terminal
 Run 'pip install streamlit' 
 <br>
 <br> 
+<br>
+
 After you confirm the installation completed without error you can run the following command:
 <br>
 <br> 
