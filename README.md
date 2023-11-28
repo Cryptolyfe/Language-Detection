@@ -1,7 +1,10 @@
 # Language-Detection
 <br>
 <br> 
+
 First, clone the repo at: https://github.com/Cryptolyfe/Language-Detection.git
+
+<br>
 <br>
 <br> 
 Before you run the below command make sure you have Streamlit installed.
