@@ -30,7 +30,7 @@ This will launch a local deloyment of the language detetction app...
 
 <br>
 
-And the UI will launch in your browser!
+...And the UI will launch in your browser!
 
 <br>
 <br> 
