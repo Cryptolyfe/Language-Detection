@@ -58,3 +58,5 @@ Or with as many languages as you know!
 
 ![krbylogo](media/photo6.png)
 
+*you might need to update your requirements.txt file to run as packages are contantly being upgraded
+
