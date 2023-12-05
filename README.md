@@ -19,7 +19,7 @@ First, clone the repo at: https://github.com/Cryptolyfe/Language-Detection.git
 
 ***Run 'pip install streamlit'***
 
-![krbylogo](media/stream.png)
+![krbylogo](media/.png)
 
 
 
