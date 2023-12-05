@@ -17,10 +17,9 @@ First, clone the repo at: https://github.com/Cryptolyfe/Language-Detection.git
 
 <br>
 
+Run:
 
-
-
-Ren: ![krbylogo](media/streamlit.png)
+![krbylogo](media/streamlit.png)
 
 
 <br>
