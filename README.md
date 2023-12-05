@@ -7,7 +7,9 @@ First, clone the repo at: https://github.com/Cryptolyfe/Language-Detection.git
 <br>
 <br>
 <br> 
-Before you run the below command make sure you have Streamlit installed.
+
+- Before you run the below command make sure you have Streamlit installed.
+
 <br>
 <br> 
 To install Streamlit from your terminal
@@ -17,7 +19,8 @@ Run 'pip install streamlit'
 <br>
 <br>
 
-After you confirm the installation completed without error you can run the following command:
+- After you confirm the installation completed without error you can run the following command:
+
 <br>
 <br> 
 
@@ -25,7 +28,7 @@ After you confirm the installation completed without error you can run the follo
 
 <br> 
 
-This will launch a local deloyment of the language detetction app...
+- This will launch a local deloyment of the language detetction app...
 
 <br>
 <br>
@@ -44,13 +47,13 @@ This will launch a local deloyment of the language detetction app...
 <br>
 <br> 
 
-Insert preffered language text into the user input window and click "Get Language Name"
+- Insert preffered language text into the user input window and click "Get Language Name"
 
 ![krbylogo](media/photo4.png)
 
 <br> 
 
-Repeat this with as many languages as you wish!
+- Repeat this with as many languages as you wish!
 
 <br>
 
@@ -58,7 +61,7 @@ Repeat this with as many languages as you wish!
 
 <br>
 
-Or with as many languages as you know!
+- Or with as many languages as you know!
 
 ![krbylogo](media/photo6.png)
 
