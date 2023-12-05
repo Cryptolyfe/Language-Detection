@@ -23,8 +23,6 @@ First, clone the repo at: https://github.com/Cryptolyfe/Language-Detection.git
 
 
 <br>
-<br> 
-<br>
 <br>
 
 - After you confirm the installation completed without error you can run the following command:
