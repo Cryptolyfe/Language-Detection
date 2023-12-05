@@ -1,4 +1,4 @@
-# Language-Detection
+# Language Detection Web App
 <br>
 <br> 
 
